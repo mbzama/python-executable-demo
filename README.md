@@ -10,6 +10,6 @@
 ## Build executable
    pyinstaller --onefile demo.py
 
-## executable (demo.exe) file will be generated in dist folder
-
-## To run either run in Command Prompt or Double click the exe file   
+**Note:**
+  - executable (demo.exe) file will be generated in dist folder
+  - To run either run in Command Prompt or Double click the exe file   
